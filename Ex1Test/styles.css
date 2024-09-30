@@ -1,0 +1,25 @@
+/*Seletor universal*/
+* {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+  }
+  
+  /*Estilização por nome de tag*/
+  h1 {
+    background-color: rgb(153, 189, 255);
+    color: rgb(0, 0, 0);
+  }
+  
+  /*Estilização por classe*/
+  .titulo {
+    background-color: rgb(186, 169, 255);
+    color: rgb(0, 0, 0);
+  }
+  
+  /*Estilização por seletor de id*/
+  #destaque {
+    background-color: rgb(168, 252, 241);
+    color: rgb(0, 0, 0);
+  }
+  
+  /**/
