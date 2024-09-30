@@ -18,5 +18,8 @@
 }
 
 header, footer{
-    background-color: hsl(284, 100%, 87%);
+    background-color: hsl(285, 100%, 97%);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 10px;
 }
