@@ -1,0 +1,22 @@
+.conteiner{
+    display: flex;
+    flex-direction: row; /*Alinha os itens na horizontal*/
+    flex-wrap: wrap;/*Permite quebra linha*/
+    justify-content: space-between;/*Distribui os itens com espaçamento igual entre eles*/ 
+    align-items: center;
+    height: 100%;
+    border: 2px solid #000;
+}
+
+.item{
+    flex: 1;
+    padding: 20px;
+    margin: 10px;
+    background-color: #ba9affc7;
+    border: 1px solid #000000c7;
+    text-align: center;
+}
+
+header, footer{
+    background-color: hsl(284, 100%, 87%);
+}
